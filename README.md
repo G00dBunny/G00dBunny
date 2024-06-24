@@ -15,4 +15,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g00dbunny&show_icons=true&locale=en" alt="g00dbunny" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g00dbunny&" alt="g00dbunny" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=G00dbunny&theme=dark" alt="GitHub Streak" /></p>
