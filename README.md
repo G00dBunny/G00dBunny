@@ -12,7 +12,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g00dbunny&show_icons=true&locale=en&layout=compact&theme=dark" alt="g00dbunny" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g00dbunny&langs_cout=8&show_icons=true&locale=en&theme=dark" alt="g00dbunny" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g00dbunny&langs_count=8&show_icons=true&locale=en&theme=dark" alt="g00dbunny" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=G00dbunny&theme=dark" alt="GitHub Streak" /></p>
