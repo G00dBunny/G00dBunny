@@ -14,4 +14,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g00dbunny&show_icons=true&locale=en&theme=dark" alt="g00dbunny" /></p>
 
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com?user=G00dbunny&theme=dark](https://github-readme-streak-stats-ochre-tau.vercel.app/demo/?user=G00dBunny&theme=radical&hide_border=false&border_radius=10&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background)" alt="GitHub Streak" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ochre-tau.vercel.app?user=G00dBunny&theme=radical&border_radius=50&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
